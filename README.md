@@ -21,6 +21,7 @@ npm i -g \
 
 - Install Python/Docker
 
+Remove any MCP servers from MCP config that are unnecessary.
 
 
 # Debugging
@@ -48,3 +49,4 @@ class FileLogger:
 
 logger = FileLogger("mcp_log.txt")
 ```
+
